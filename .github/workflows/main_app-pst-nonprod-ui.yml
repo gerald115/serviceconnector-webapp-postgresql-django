@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'app-pst-nonprod-ui'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_46E43CEFA01D4F20929790CC8E8DD9DC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3551522132EA486F933C0271D995DE4E }}
           package: .
